@@ -1,4 +1,5 @@
 numpy 
+ipympl
 scipy
 ipywidgets
 matplotlib
